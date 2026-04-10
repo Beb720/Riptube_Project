@@ -1,0 +1,20 @@
+{
+    "config": {
+        "hide_download_progress": false,
+        "no_playlist": false,
+        "bitrate": 320,
+        "output_dir": ""
+    },
+    "config_types": {
+        "hide_download_progress": "bool",
+        "no_playlist": "bool",
+        "bitrate": "int",
+        "output_dir": "str"
+    },
+    "base_settings": {
+        "hide_download_progress": false,
+        "no_playlist": false,
+        "bitrate": 320,
+        "output_dir": ""
+    }
+}
